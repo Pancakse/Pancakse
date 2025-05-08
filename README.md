@@ -9,6 +9,7 @@
 <h2> Software Development Projects:</h2>
 
 - [Linux Log Analyzer](https://github.com/Pancakse/linux-log-analyzer)
+- [Personal Bookmark Manager](https://github.com/Pancakse/personal-bookmark-manager)
 
 <h2>  Connect with me:</h2>
 
