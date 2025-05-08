@@ -1,4 +1,20 @@
-## Hi there 👋
+<h1>Hi, I'm Chase! <br/><a href="https://github.com/Pancakse">Programmer</a>, <a href="https://www.linkedin.com/in/chase-derkacy-a28a2728b/">Cybersecurity Professional</a>
+
+<h2> Programing languages:</h2>
+
+- Python
+- Java
+- R
+
+<h2> Software Development Projects:</h2>
+
+- [Linux Log Analyzer](https://github.com/Pancakse/linux-log-analyzer)
+
+<h2>  Connect with me:</h2>
+
+[<img align="left" alt="Chase Derkacy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/chase-derkacy-a28a2728b/
 
 <!--
 **Pancakse/Pancakse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
