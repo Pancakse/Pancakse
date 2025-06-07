@@ -4,7 +4,6 @@
 
 - Python
 - Java
-- R
 
 <h2> Software Development Projects:</h2>
 
