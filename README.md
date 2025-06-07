@@ -10,6 +10,8 @@
 
 - [Linux Log Analyzer](https://github.com/Pancakse/linux-log-analyzer)
 - [Personal Bookmark Manager](https://github.com/Pancakse/personal-bookmark-manager)
+- [Password Manager](https://github.com/Pancakse/password-manager)
+- [Custom Firewall](https://github.com/Pancakse/pywall)
 
 <h2>  Connect with me:</h2>
 
